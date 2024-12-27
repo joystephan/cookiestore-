@@ -11,24 +11,24 @@
         android:padding="16dp">
 
         <ImageView
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:layout_width="332dp"
+            android:layout_height="574dp"
             android:src="@drawable/ic_cookies" />
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Welcome to Coolkies Store!"
-            android:textSize="24sp"
-            android:textStyle="bold"
+            android:layout_height="78dp"
+            android:layout_marginTop="16dp"
             android:gravity="center"
-            android:layout_marginTop="16dp" />
+            android:text="Welcome to Coolkies Store!"
+            android:textSize="30sp"
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="We bake the freshest cookies for you daily."
-            android:textSize="16sp"
+            android:textSize="20sp"
             android:gravity="center"
             android:layout_marginTop="8dp" />
 
