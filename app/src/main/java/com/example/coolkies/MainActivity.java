@@ -57,6 +57,8 @@ public class MainActivity extends AppCompatActivity {
             selectedFragment = new MenuFragment();
         } else if (item.getItemId() == R.id.nav_contact) {
             selectedFragment = new ContactFragment();
+        } else if (item.getItemId() == R.id.nav_gallery) {
+            selectedFragment = new GalleryFragment();
         }
 
         if (selectedFragment != null) {

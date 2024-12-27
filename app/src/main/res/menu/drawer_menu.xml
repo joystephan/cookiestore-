@@ -11,4 +11,8 @@
         android:id="@+id/nav_contact"
         android:title="Contact Us"
         android:icon="@drawable/ic_contact" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="Gallery"
+        android:icon="@drawable/ic_gallery" />
 </menu>
